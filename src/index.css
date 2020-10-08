@@ -1,0 +1,34 @@
+body {
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(96,35,72,1) 35%, rgba(0,212,255,1) 100%);
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.my-link{
+  color: white;
+  margin: 1rem;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.2rem;
+
+  
+}
+.myContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.card {
+  margin: 10px;
+}
+
